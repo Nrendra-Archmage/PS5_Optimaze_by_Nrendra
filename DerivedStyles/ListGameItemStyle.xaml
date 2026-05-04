@@ -128,7 +128,7 @@
                                 <BitmapCache EnableClearType="False" RenderAtScale="1" SnapsToDevicePixels="False" />
                             </Border.CacheMode>
                         </Border>
-                        <Border x:Name="FlashBorder" Margin="0" CornerRadius="8" Opacity="1"
+                        <Border x:Name="FlashBorder" Margin="0" CornerRadius="2" Opacity="1"
                                 Style="{DynamicResource PS5Cover}" Tag="False" Visibility="Hidden">
                             <Border.CacheMode>
                                 <BitmapCache EnableClearType="False" RenderAtScale="1" SnapsToDevicePixels="False" />

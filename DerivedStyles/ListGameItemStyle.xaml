@@ -122,13 +122,13 @@
                             </StackPanel>
                         </StackPanel>
 
-                        <Border x:Name="MainBorder" Margin="-6" BorderThickness="3" CornerRadius="15" Opacity="1"
+                        <Border x:Name="MainBorder" Margin="-6" BorderThickness="3" CornerRadius="10" Opacity="1"
                                 Style="{DynamicResource PS5Border}" Tag="False" Visibility="Hidden">
                             <Border.CacheMode>
                                 <BitmapCache EnableClearType="False" RenderAtScale="1" SnapsToDevicePixels="False" />
                             </Border.CacheMode>
                         </Border>
-                        <Border x:Name="FlashBorder" Margin="0" CornerRadius="12" Opacity="1"
+                        <Border x:Name="FlashBorder" Margin="0" CornerRadius="8" Opacity="1"
                                 Style="{DynamicResource PS5Cover}" Tag="False" Visibility="Hidden">
                             <Border.CacheMode>
                                 <BitmapCache EnableClearType="False" RenderAtScale="1" SnapsToDevicePixels="False" />

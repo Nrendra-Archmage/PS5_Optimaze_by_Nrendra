@@ -74,7 +74,7 @@
                                 x:Name="MainBorder"
                                 Margin="0"
                                 BorderThickness="3"
-                                CornerRadius="2"
+                                CornerRadius="15"
                                 Opacity="0"
                                 Style="{DynamicResource PS5Border}"
                                 Tag="False"
@@ -82,6 +82,7 @@
                             <Border
                                 x:Name="FlashMenuBorder"
                                 Margin="5"
+                                CornerRadius="10"
                                 Style="{DynamicResource PS5Cover}"
                                 Tag="False"
                                 Visibility="Collapsed" />

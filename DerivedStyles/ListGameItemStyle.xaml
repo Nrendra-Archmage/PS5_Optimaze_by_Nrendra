@@ -122,7 +122,7 @@
                             </StackPanel>
                         </StackPanel>
 
-                        <Border x:Name="MainBorder" Margin="-6" BorderThickness="3" CornerRadius="10" Opacity="1"
+                        <Border x:Name="MainBorder" Margin="-6" BorderThickness="3" CornerRadius="5" Opacity="1"
                                 Style="{DynamicResource PS5Border}" Tag="False" Visibility="Hidden">
                             <Border.CacheMode>
                                 <BitmapCache EnableClearType="False" RenderAtScale="1" SnapsToDevicePixels="False" />

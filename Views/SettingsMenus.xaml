@@ -109,7 +109,7 @@
                                 <ContentPresenter RecognizesAccessKey="True" />
                                 </TextBlock>
                             </Grid>
-                            <Border x:Name="MainBorder" Margin="0" BorderThickness="3" Opacity="0" CornerRadius="2" Style="{DynamicResource PS5Border}" Tag="False" Visibility="Collapsed" >
+                            <Border x:Name="MainBorder" Margin="0" BorderThickness="3" Opacity="0" CornerRadius="10" Style="{DynamicResource PS5Border}" Tag="False" Visibility="Collapsed" >
                             </Border>
                             <Border x:Name="FlashMenuBorder" Margin="5" Style="{DynamicResource PS5Cover}" Tag="False" Visibility="Collapsed">
                             </Border>

@@ -15,7 +15,7 @@
             <Setter.Value>
                 <ControlTemplate TargetType="CheckBoxEx">
                     <Grid x:Name="MainGrid" Height="60" Margin="50,0,0,0">
-                        <Border x:Name="MainBorder" Opacity="1" BorderThickness="3" CornerRadius="2" Margin="0" Style="{DynamicResource PS5Border}" Visibility="Hidden" Tag="False">
+                        <Border x:Name="MainBorder" Opacity="1" BorderThickness="3" CornerRadius="10" Margin="0" Style="{DynamicResource PS5Border}" Visibility="Hidden" Tag="False">
                             <Border.CacheMode>
                                 <BitmapCache EnableClearType="False" 
                                                  RenderAtScale="1" 
